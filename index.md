@@ -4,16 +4,16 @@
 
 ### Category 1: Android Project
 
-Project 1 Food Recipe
+#####Project 1: Food Recipe
 [Project 1 Food Recipe](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Mea Text](/pdf/sample_presentation.pdf)
+[Project 2: Mea Text](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 My Converter](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
