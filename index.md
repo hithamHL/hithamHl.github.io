@@ -2,13 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Category 1: Android Project
 
-[Project 1 Title](/sample_page)
+Project 1 Food Recipe
+[Project 1 Food Recipe](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Mea Text](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
