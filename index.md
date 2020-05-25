@@ -4,7 +4,7 @@
 
 ### Category 1: Android Project
 
-#####Project 1: Food Recipe
+Project 1: Food Recipe
 [Project 1 Food Recipe](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
