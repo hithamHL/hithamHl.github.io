@@ -1,10 +1,9 @@
 title: Hitham Husham # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi, Welcome to my portfolio.
-  <br><br>
+  Hi, Welcome to my portfolio.<br>
    I am a Mobile developer focusing on Android development. Always hungry to keep learning.
-  <br><br>
+ <br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
