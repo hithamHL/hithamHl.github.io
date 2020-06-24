@@ -4,7 +4,7 @@
 
 ### Category 1: Android Project
 
-Project 1: Food Recipe
+
 [Project 1 Food Recipe](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -14,6 +14,10 @@ Project 1: Food Recipe
 
 ---
 [Project 3 My Converter](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 4 Drawzer App](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
