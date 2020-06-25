@@ -6,7 +6,7 @@
 
 
 [Project 1 Food Recipe](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://drive.google.com/file/d/164PjKnSV7r4gJMQJNt4SvN3E2UjT3z0f/view?usp=sharing"/>
 
 ---
 [Project 2: Mea Text](/pdf/sample_presentation.pdf)
