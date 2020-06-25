@@ -10,15 +10,21 @@
 
 ---
 [Project 2: Mea Text](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="https://drive.google.com/uc?export=view&id=1Gil_L8811p1D-6orCysVRo8c5nTwh5sY"/>
 
 ---
 [Project 3 My Converter](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="https://drive.google.com/uc?export=view&id=1rHf4kCuMSE2myEm2ftACSrvpaO7k9z7E"/>
 
 ---
-[Project 4 Drawzer App](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 4 Drawzer App]
+<img src="https://drive.google.com/uc?export=view&id=1qgipVzBTYSE63KDLtxvMdr6VXgLTNGtO"/>
+
+---
+[Project 4 webView App]
+<img src="https://drive.google.com/uc?export=view&id=13fl-virVHBG7VULtJEUkYuiymHMQ27SR"/>
 
 ---
 
@@ -26,9 +32,7 @@
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
