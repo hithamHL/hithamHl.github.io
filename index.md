@@ -2,7 +2,7 @@
 
 ---
 
-### Category 1: Android Project
+### MY Work: Android Project
 
 
 [Project 1 Food Recipe](/sample_page)
@@ -25,7 +25,7 @@
 <img src="https://drive.google.com/uc?export=view&id=1qgipVzBTYSE63KDLtxvMdr6VXgLTNGtO"/>
 
 ---
-[Project 4 webView App]
+# Project 5 webView App
 <img src="https://drive.google.com/uc?export=view&id=13fl-virVHBG7VULtJEUkYuiymHMQ27SR"/>
 
 ---
