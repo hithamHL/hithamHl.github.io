@@ -1,12 +1,13 @@
 title: Hitham Husham # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/photo_editor_ds_1591734016026.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi, Welcome to my portfolio.<br>
    I am a Mobile developer focusing on Android development.<br> 
    Always hungry to keep learning.
    <br>
    <br>
-  <a href="https://www.linkedin.com/in/hitham-lafi-326024153/">View My LinkedIn Profile</a><br>
+  <a href="https://www.linkedin.com/in/hitham-lafi-326024153/">View My LinkedIn Profile</a>
+  <br>
  
   
 theme: jekyll-theme-minimal
